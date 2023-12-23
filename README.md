@@ -1,5 +1,5 @@
 ### Name: P VIJAYAKUMAR
-### Reg-no:230005067
+### Reg-no:23005067
 
 # Experiment--02-Implementation-of-combinational-logic
  
